@@ -1,11 +1,10 @@
-# Mi pagina web
+# La pagina web
 
 ## Biografia
 
 Soy Christian Gerzain
 
 ## Mis Hobbies
-
 
 
 ## Memes
